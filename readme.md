@@ -24,10 +24,10 @@ Jochen Sommer bei ansage.org
 
 ## scans
 
-### TODO_BOOK_TORRENT_NAME
+### gerd.reuther.tatort.vergangenheit.2025.600dpi.german.book.scan
 
 ```
-TODO_BOOK_TORRENT_MAGNET_LINK
+magnet:?xt=urn:btih:a83525c5ecec4951213e6514a240549ac8f556e0&dn=gerd.reuther.tatort.vergangenheit.2025.600dpi.german.book.scan&xl=414808851&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F107.189.2.131%3A1337%2Fannounce&piece_size=4194304
 ```
 
 ## mirrors
