@@ -19,6 +19,7 @@ Jochen Sommer bei ansage.org
 - Autor: Gerd Reuther
 - Seiten: 230
 - Einband: Softcover, 148 x 210, vollfarbig
+- Verlag: Engelsdorfer Verlag, Leipzig
 
 </blockquote>
 
