@@ -1,8 +1,8 @@
 # TODO set config values
 
-num_pages = 592
+num_pages = 230
 
-color_pages = []
+color_pages = [24, 35, 54, 83, 84, 100, 122, 130, 133, 135, 137, 143, 149, 151, 152, 160, 197, 229, 230]
 
 # TODO rename all mm sizes to scan_x_mm etc
 
@@ -16,7 +16,7 @@ max_scan_x, max_scan_y = 215.88, 355.567 # maximum
 # scan_x, scan_y = 210, 297 # DIN A4
 scan_x, scan_y = 147, 231
 scan_x, scan_y = 156, 210
-scan_x, scan_y = 210, 156 # rotate 90
+scan_x, scan_y = 211, 148 # rotate 90
 
 # scan_x, scan_y = max_scan_x, max_scan_y # maximum
 
@@ -136,7 +136,8 @@ crop_even_box = (0, 0, crop_size[0], crop_size[1])
 do_level = True
 # lowthresh, highthresh = 0.05, 0.95
 # lowthresh, highthresh = 0.2, 0.8
-lowthresh, highthresh = 0.3, 0.7
+# lowthresh, highthresh = 0.3, 0.7
+lowthresh, highthresh = 0.05, 0.95
 
 
 
