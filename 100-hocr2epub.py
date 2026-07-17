@@ -73,29 +73,30 @@ args += [
     "--image-format", "avif",
     "--text-format", "html",
     # TODO? move these config items to 000-config.py
-    "--doc-title", "",
     "--doc-modified", doc_modified,
-    "--doc-isbn", "0000000000000",
-]
+    "--doc-title", "Tatort Vergangenheit",
+    "--doc-subtitle", "Wie eine Fake Past unsere Zukunft diktiert",
+    "--doc-description", """Es muss kein Blut geflossen sein, damit Vergangenheit zum Tatort wird. Die Täter benutzten Tinte und Feder, um Geschichten und Personen in die Welt zu setzen. Wir sind die Opfer, wenn uns Schulbücher und Geschichtswerke vorgaukeln, die Vergangenheit zu kennen. Lügen, die wir glauben, verwandeln sich in „Wahrheiten“, mit denen wir leben. Viele Zeugnisse unserer Vergangenheit fehlen, tauchten unvermutet auf und verschwanden wieder. Unsere Geschichte ist ein Labyrinth von Kopien fraglicher Herkunft. Eine Exkursion in den Irrgarten der Geschichten, die zur Geschichte geworden sind. Unsere Zukunft ist in Nebel gehüllt. Wer jedoch weiß, wie unsere Vergangenheit manipuliert wurde, kann daraus ableiten, was kommt.
 
+Dr. med. Gerd Reuther ist Radiologe, Medizinhistoriker und der meistgelesene Medizinaufklärer im deutschsprachigen Raum. Er hat 9 Bücher veröffentlicht. Darunter „Hauptsache Panik. Ein neuer Blick auf Pandemien in Europa“, „Die Eroberung der Alten und Neuen Welt. Mythen und Fakten“ und „Hauptsache krank?“ 
 
-todo_args = [
-    "--doc-title", "",
-    "--doc-subtitle", "",
-    "--doc-description", "",
+Mit 17 farbigen und 2 schwarzweißen Illustrationen.
+
+Das neue Buch von Gerd Reuther „Tatort Vergangenheit. Wie eine Fake Past unsere Zukunft diktiert“ nimmt sich dieses Themas an und fördert Erschütterndes zutage. Es geht dabei nicht vorrangig um die medizinische Vergangenheit, die der Autor schon öfter entzaubert hat. Dieses Mal hat er sich die „große“ Geschichte vorgenommen: die Antike, Karl den Großen und die Renaissance.
+Jochen Sommer bei ansage.org""",
     "--doc-subject", "",
     "--doc-date", "2025",
     "--doc-edition", "1",
-    "--doc-extent", "123 pages",
-    "--doc-author", "",
-    "--doc-introducer", "",
-    "--doc-contributor", "",
-    "--doc-translator", "",
-    "--doc-publisher", "",
+    "--doc-extent", "230 pages",
+    "--doc-author", "Gerd Reuther",
+    # "--doc-introducer", "",
+    # "--doc-contributor", "",
+    # "--doc-translator", "",
+    "--doc-publisher", "Engelsdorfer Verlag, Leipzig",
     "--doc-language", "de",
-    "--doc-isbn", "0000000000000",
-    "--doc-cover-image", "070-deskew/999.jpg",
-    "--canonical-url-base", "https://milahu.github.io/todo/",
+    "--doc-isbn", "9783690950039",
+    "--doc-cover-image", "070-deskew/231.jpg",
+    "--canonical-url-base", "https://milahu.github.io/gerd-reuther-tatort-vergangenheit-2025/",
 ]
 
 
